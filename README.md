@@ -1,10 +1,7 @@
 👋 
 
-👀: Nature, Science, Sport, https://forestgrape.github.io/coronavirus
+👀: Nature, Science, Sport, [corona page](https://forestgrape.github.io/coronavirus)
 
-
-
-https://forestgrape.github.io/coronavirus/
 
 <!--
 wmtforestgrape
